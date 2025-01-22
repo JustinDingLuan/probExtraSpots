@@ -1,0 +1,865 @@
+timestamp,student_id,name,department,grade,double_major_minor_second_speciality,first_choice,second_choice
+2025-01-22 00:20:30.635499,1,student_1,資工系 (CS),大一 (freshman),雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:20:31.635499,2,student_2,資工系 (CS),大一 (freshman),雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:20:32.635499,3,student_3,資工系 (CS),大一 (freshman),雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:20:33.635499,4,student_4,資工系 (CS),大一 (freshman),雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:20:34.635499,5,student_5,資工系 (CS),大一 (freshman),雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:20:35.635499,6,student_6,資工系 (CS),大一 (freshman),雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:20:36.635499,7,student_7,資工系 (CS),大一 (freshman),雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:20:37.635499,8,student_8,資工系 (CS),大一 (freshman),雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:20:38.635499,9,student_9,資工系 (CS),大一 (freshman),雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:20:39.635499,10,student_10,資工系 (CS),大一 (freshman),輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:20:40.635499,11,student_11,資工系 (CS),大一 (freshman),輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:20:41.635499,12,student_12,資工系 (CS),大一 (freshman),輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:20:42.635499,13,student_13,資工系 (CS),大一 (freshman),輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:20:43.635499,14,student_14,資工系 (CS),大一 (freshman),輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:20:44.635499,15,student_15,資工系 (CS),大一 (freshman),輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:20:45.635499,16,student_16,資工系 (CS),大一 (freshman),輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:20:46.635499,17,student_17,資工系 (CS),大一 (freshman),輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:20:47.635499,18,student_18,資工系 (CS),大一 (freshman),輔系:資工系 (minor in CS),無,無
+2025-01-22 00:20:48.635499,19,student_19,資工系 (CS),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:20:49.635499,20,student_20,資工系 (CS),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:20:50.635499,21,student_21,資工系 (CS),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:20:51.635499,22,student_22,資工系 (CS),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:20:52.635499,23,student_23,資工系 (CS),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:20:53.635499,24,student_24,資工系 (CS),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:20:54.635499,25,student_25,資工系 (CS),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:20:55.635499,26,student_26,資工系 (CS),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:20:56.635499,27,student_27,資工系 (CS),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:20:57.635499,28,student_28,資工系 (CS),大一 (freshman),無,李教授班,李教授班
+2025-01-22 00:20:58.635499,29,student_29,資工系 (CS),大一 (freshman),無,李教授班,高教授班
+2025-01-22 00:20:59.635499,30,student_30,資工系 (CS),大一 (freshman),無,李教授班,無
+2025-01-22 00:21:00.635499,31,student_31,資工系 (CS),大一 (freshman),無,高教授班,李教授班
+2025-01-22 00:21:01.635499,32,student_32,資工系 (CS),大一 (freshman),無,高教授班,高教授班
+2025-01-22 00:21:02.635499,33,student_33,資工系 (CS),大一 (freshman),無,高教授班,無
+2025-01-22 00:21:03.635499,34,student_34,資工系 (CS),大一 (freshman),無,無,李教授班
+2025-01-22 00:21:04.635499,35,student_35,資工系 (CS),大一 (freshman),無,無,高教授班
+2025-01-22 00:21:05.635499,36,student_36,資工系 (CS),大一 (freshman),無,無,無
+2025-01-22 00:21:06.635499,37,student_37,資工系 (CS),大二 (sophomore),雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:21:07.635499,38,student_38,資工系 (CS),大二 (sophomore),雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:21:08.635499,39,student_39,資工系 (CS),大二 (sophomore),雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:21:09.635499,40,student_40,資工系 (CS),大二 (sophomore),雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:21:10.635499,41,student_41,資工系 (CS),大二 (sophomore),雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:21:11.635499,42,student_42,資工系 (CS),大二 (sophomore),雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:21:12.635499,43,student_43,資工系 (CS),大二 (sophomore),雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:21:13.635499,44,student_44,資工系 (CS),大二 (sophomore),雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:21:14.635499,45,student_45,資工系 (CS),大二 (sophomore),雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:21:15.635499,46,student_46,資工系 (CS),大二 (sophomore),輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:21:16.635499,47,student_47,資工系 (CS),大二 (sophomore),輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:21:17.635499,48,student_48,資工系 (CS),大二 (sophomore),輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:21:18.635499,49,student_49,資工系 (CS),大二 (sophomore),輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:21:19.635499,50,student_50,資工系 (CS),大二 (sophomore),輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:21:20.635499,51,student_51,資工系 (CS),大二 (sophomore),輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:21:21.635499,52,student_52,資工系 (CS),大二 (sophomore),輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:21:22.635499,53,student_53,資工系 (CS),大二 (sophomore),輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:21:23.635499,54,student_54,資工系 (CS),大二 (sophomore),輔系:資工系 (minor in CS),無,無
+2025-01-22 00:21:24.635499,55,student_55,資工系 (CS),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:21:25.635499,56,student_56,資工系 (CS),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:21:26.635499,57,student_57,資工系 (CS),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:21:27.635499,58,student_58,資工系 (CS),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:21:28.635499,59,student_59,資工系 (CS),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:21:29.635499,60,student_60,資工系 (CS),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:21:30.635499,61,student_61,資工系 (CS),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:21:31.635499,62,student_62,資工系 (CS),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:21:32.635499,63,student_63,資工系 (CS),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:21:33.635499,64,student_64,資工系 (CS),大二 (sophomore),無,李教授班,李教授班
+2025-01-22 00:21:34.635499,65,student_65,資工系 (CS),大二 (sophomore),無,李教授班,高教授班
+2025-01-22 00:21:35.635499,66,student_66,資工系 (CS),大二 (sophomore),無,李教授班,無
+2025-01-22 00:21:36.635499,67,student_67,資工系 (CS),大二 (sophomore),無,高教授班,李教授班
+2025-01-22 00:21:37.635499,68,student_68,資工系 (CS),大二 (sophomore),無,高教授班,高教授班
+2025-01-22 00:21:38.635499,69,student_69,資工系 (CS),大二 (sophomore),無,高教授班,無
+2025-01-22 00:21:39.635499,70,student_70,資工系 (CS),大二 (sophomore),無,無,李教授班
+2025-01-22 00:21:40.635499,71,student_71,資工系 (CS),大二 (sophomore),無,無,高教授班
+2025-01-22 00:21:41.635499,72,student_72,資工系 (CS),大二 (sophomore),無,無,無
+2025-01-22 00:21:42.635499,73,student_73,資工系 (CS),大三 (junior),雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:21:43.635499,74,student_74,資工系 (CS),大三 (junior),雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:21:44.635499,75,student_75,資工系 (CS),大三 (junior),雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:21:45.635499,76,student_76,資工系 (CS),大三 (junior),雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:21:46.635499,77,student_77,資工系 (CS),大三 (junior),雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:21:47.635499,78,student_78,資工系 (CS),大三 (junior),雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:21:48.635499,79,student_79,資工系 (CS),大三 (junior),雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:21:49.635499,80,student_80,資工系 (CS),大三 (junior),雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:21:50.635499,81,student_81,資工系 (CS),大三 (junior),雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:21:51.635499,82,student_82,資工系 (CS),大三 (junior),輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:21:52.635499,83,student_83,資工系 (CS),大三 (junior),輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:21:53.635499,84,student_84,資工系 (CS),大三 (junior),輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:21:54.635499,85,student_85,資工系 (CS),大三 (junior),輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:21:55.635499,86,student_86,資工系 (CS),大三 (junior),輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:21:56.635499,87,student_87,資工系 (CS),大三 (junior),輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:21:57.635499,88,student_88,資工系 (CS),大三 (junior),輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:21:58.635499,89,student_89,資工系 (CS),大三 (junior),輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:21:59.635499,90,student_90,資工系 (CS),大三 (junior),輔系:資工系 (minor in CS),無,無
+2025-01-22 00:22:00.635499,91,student_91,資工系 (CS),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:22:01.635499,92,student_92,資工系 (CS),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:22:02.635499,93,student_93,資工系 (CS),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:22:03.635499,94,student_94,資工系 (CS),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:22:04.635499,95,student_95,資工系 (CS),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:22:05.635499,96,student_96,資工系 (CS),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:22:06.635499,97,student_97,資工系 (CS),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:22:07.635499,98,student_98,資工系 (CS),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:22:08.635499,99,student_99,資工系 (CS),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:22:09.635499,100,student_100,資工系 (CS),大三 (junior),無,李教授班,李教授班
+2025-01-22 00:22:10.635499,101,student_101,資工系 (CS),大三 (junior),無,李教授班,高教授班
+2025-01-22 00:22:11.635499,102,student_102,資工系 (CS),大三 (junior),無,李教授班,無
+2025-01-22 00:22:12.635499,103,student_103,資工系 (CS),大三 (junior),無,高教授班,李教授班
+2025-01-22 00:22:13.635499,104,student_104,資工系 (CS),大三 (junior),無,高教授班,高教授班
+2025-01-22 00:22:14.635499,105,student_105,資工系 (CS),大三 (junior),無,高教授班,無
+2025-01-22 00:22:15.635499,106,student_106,資工系 (CS),大三 (junior),無,無,李教授班
+2025-01-22 00:22:16.635499,107,student_107,資工系 (CS),大三 (junior),無,無,高教授班
+2025-01-22 00:22:17.635499,108,student_108,資工系 (CS),大三 (junior),無,無,無
+2025-01-22 00:22:18.635499,109,student_109,資工系 (CS),大四 (senior),雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:22:19.635499,110,student_110,資工系 (CS),大四 (senior),雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:22:20.635499,111,student_111,資工系 (CS),大四 (senior),雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:22:21.635499,112,student_112,資工系 (CS),大四 (senior),雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:22:22.635499,113,student_113,資工系 (CS),大四 (senior),雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:22:23.635499,114,student_114,資工系 (CS),大四 (senior),雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:22:24.635499,115,student_115,資工系 (CS),大四 (senior),雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:22:25.635499,116,student_116,資工系 (CS),大四 (senior),雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:22:26.635499,117,student_117,資工系 (CS),大四 (senior),雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:22:27.635499,118,student_118,資工系 (CS),大四 (senior),輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:22:28.635499,119,student_119,資工系 (CS),大四 (senior),輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:22:29.635499,120,student_120,資工系 (CS),大四 (senior),輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:22:30.635499,121,student_121,資工系 (CS),大四 (senior),輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:22:31.635499,122,student_122,資工系 (CS),大四 (senior),輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:22:32.635499,123,student_123,資工系 (CS),大四 (senior),輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:22:33.635499,124,student_124,資工系 (CS),大四 (senior),輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:22:34.635499,125,student_125,資工系 (CS),大四 (senior),輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:22:35.635499,126,student_126,資工系 (CS),大四 (senior),輔系:資工系 (minor in CS),無,無
+2025-01-22 00:22:36.635499,127,student_127,資工系 (CS),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:22:37.635499,128,student_128,資工系 (CS),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:22:38.635499,129,student_129,資工系 (CS),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:22:39.635499,130,student_130,資工系 (CS),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:22:40.635499,131,student_131,資工系 (CS),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:22:41.635499,132,student_132,資工系 (CS),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:22:42.635499,133,student_133,資工系 (CS),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:22:43.635499,134,student_134,資工系 (CS),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:22:44.635499,135,student_135,資工系 (CS),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:22:45.635499,136,student_136,資工系 (CS),大四 (senior),無,李教授班,李教授班
+2025-01-22 00:22:46.635499,137,student_137,資工系 (CS),大四 (senior),無,李教授班,高教授班
+2025-01-22 00:22:47.635499,138,student_138,資工系 (CS),大四 (senior),無,李教授班,無
+2025-01-22 00:22:48.635499,139,student_139,資工系 (CS),大四 (senior),無,高教授班,李教授班
+2025-01-22 00:22:49.635499,140,student_140,資工系 (CS),大四 (senior),無,高教授班,高教授班
+2025-01-22 00:22:50.635499,141,student_141,資工系 (CS),大四 (senior),無,高教授班,無
+2025-01-22 00:22:51.635499,142,student_142,資工系 (CS),大四 (senior),無,無,李教授班
+2025-01-22 00:22:52.635499,143,student_143,資工系 (CS),大四 (senior),無,無,高教授班
+2025-01-22 00:22:53.635499,144,student_144,資工系 (CS),大四 (senior),無,無,無
+2025-01-22 00:22:54.635499,145,student_145,資工系 (CS),大五、大六、或大七,雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:22:55.635499,146,student_146,資工系 (CS),大五、大六、或大七,雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:22:56.635499,147,student_147,資工系 (CS),大五、大六、或大七,雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:22:57.635499,148,student_148,資工系 (CS),大五、大六、或大七,雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:22:58.635499,149,student_149,資工系 (CS),大五、大六、或大七,雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:22:59.635499,150,student_150,資工系 (CS),大五、大六、或大七,雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:23:00.635499,151,student_151,資工系 (CS),大五、大六、或大七,雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:23:01.635499,152,student_152,資工系 (CS),大五、大六、或大七,雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:23:02.635499,153,student_153,資工系 (CS),大五、大六、或大七,雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:23:03.635499,154,student_154,資工系 (CS),大五、大六、或大七,輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:23:04.635499,155,student_155,資工系 (CS),大五、大六、或大七,輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:23:05.635499,156,student_156,資工系 (CS),大五、大六、或大七,輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:23:06.635499,157,student_157,資工系 (CS),大五、大六、或大七,輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:23:07.635499,158,student_158,資工系 (CS),大五、大六、或大七,輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:23:08.635499,159,student_159,資工系 (CS),大五、大六、或大七,輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:23:09.635499,160,student_160,資工系 (CS),大五、大六、或大七,輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:23:10.635499,161,student_161,資工系 (CS),大五、大六、或大七,輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:23:11.635499,162,student_162,資工系 (CS),大五、大六、或大七,輔系:資工系 (minor in CS),無,無
+2025-01-22 00:23:12.635499,163,student_163,資工系 (CS),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:23:13.635499,164,student_164,資工系 (CS),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:23:14.635499,165,student_165,資工系 (CS),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:23:15.635499,166,student_166,資工系 (CS),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:23:16.635499,167,student_167,資工系 (CS),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:23:17.635499,168,student_168,資工系 (CS),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:23:18.635499,169,student_169,資工系 (CS),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:23:19.635499,170,student_170,資工系 (CS),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:23:20.635499,171,student_171,資工系 (CS),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:23:21.635499,172,student_172,資工系 (CS),大五、大六、或大七,無,李教授班,李教授班
+2025-01-22 00:23:22.635499,173,student_173,資工系 (CS),大五、大六、或大七,無,李教授班,高教授班
+2025-01-22 00:23:23.635499,174,student_174,資工系 (CS),大五、大六、或大七,無,李教授班,無
+2025-01-22 00:23:24.635499,175,student_175,資工系 (CS),大五、大六、或大七,無,高教授班,李教授班
+2025-01-22 00:23:25.635499,176,student_176,資工系 (CS),大五、大六、或大七,無,高教授班,高教授班
+2025-01-22 00:23:26.635499,177,student_177,資工系 (CS),大五、大六、或大七,無,高教授班,無
+2025-01-22 00:23:27.635499,178,student_178,資工系 (CS),大五、大六、或大七,無,無,李教授班
+2025-01-22 00:23:28.635499,179,student_179,資工系 (CS),大五、大六、或大七,無,無,高教授班
+2025-01-22 00:23:29.635499,180,student_180,資工系 (CS),大五、大六、或大七,無,無,無
+2025-01-22 00:23:30.635499,181,student_181,資工系 (CS),其他,雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:23:31.635499,182,student_182,資工系 (CS),其他,雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:23:32.635499,183,student_183,資工系 (CS),其他,雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:23:33.635499,184,student_184,資工系 (CS),其他,雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:23:34.635499,185,student_185,資工系 (CS),其他,雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:23:35.635499,186,student_186,資工系 (CS),其他,雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:23:36.635499,187,student_187,資工系 (CS),其他,雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:23:37.635499,188,student_188,資工系 (CS),其他,雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:23:38.635499,189,student_189,資工系 (CS),其他,雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:23:39.635499,190,student_190,資工系 (CS),其他,輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:23:40.635499,191,student_191,資工系 (CS),其他,輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:23:41.635499,192,student_192,資工系 (CS),其他,輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:23:42.635499,193,student_193,資工系 (CS),其他,輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:23:43.635499,194,student_194,資工系 (CS),其他,輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:23:44.635499,195,student_195,資工系 (CS),其他,輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:23:45.635499,196,student_196,資工系 (CS),其他,輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:23:46.635499,197,student_197,資工系 (CS),其他,輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:23:47.635499,198,student_198,資工系 (CS),其他,輔系:資工系 (minor in CS),無,無
+2025-01-22 00:23:48.635499,199,student_199,資工系 (CS),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:23:49.635499,200,student_200,資工系 (CS),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:23:50.635499,201,student_201,資工系 (CS),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:23:51.635499,202,student_202,資工系 (CS),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:23:52.635499,203,student_203,資工系 (CS),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:23:53.635499,204,student_204,資工系 (CS),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:23:54.635499,205,student_205,資工系 (CS),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:23:55.635499,206,student_206,資工系 (CS),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:23:56.635499,207,student_207,資工系 (CS),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:23:57.635499,208,student_208,資工系 (CS),其他,無,李教授班,李教授班
+2025-01-22 00:23:58.635499,209,student_209,資工系 (CS),其他,無,李教授班,高教授班
+2025-01-22 00:23:59.635499,210,student_210,資工系 (CS),其他,無,李教授班,無
+2025-01-22 00:24:00.635499,211,student_211,資工系 (CS),其他,無,高教授班,李教授班
+2025-01-22 00:24:01.635499,212,student_212,資工系 (CS),其他,無,高教授班,高教授班
+2025-01-22 00:24:02.635499,213,student_213,資工系 (CS),其他,無,高教授班,無
+2025-01-22 00:24:03.635499,214,student_214,資工系 (CS),其他,無,無,李教授班
+2025-01-22 00:24:04.635499,215,student_215,資工系 (CS),其他,無,無,高教授班
+2025-01-22 00:24:05.635499,216,student_216,資工系 (CS),其他,無,無,無
+2025-01-22 00:24:06.635499,217,student_217,電機系 (EE),大一 (freshman),雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:24:07.635499,218,student_218,電機系 (EE),大一 (freshman),雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:24:08.635499,219,student_219,電機系 (EE),大一 (freshman),雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:24:09.635499,220,student_220,電機系 (EE),大一 (freshman),雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:24:10.635499,221,student_221,電機系 (EE),大一 (freshman),雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:24:11.635499,222,student_222,電機系 (EE),大一 (freshman),雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:24:12.635499,223,student_223,電機系 (EE),大一 (freshman),雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:24:13.635499,224,student_224,電機系 (EE),大一 (freshman),雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:24:14.635499,225,student_225,電機系 (EE),大一 (freshman),雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:24:15.635499,226,student_226,電機系 (EE),大一 (freshman),輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:24:16.635499,227,student_227,電機系 (EE),大一 (freshman),輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:24:17.635499,228,student_228,電機系 (EE),大一 (freshman),輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:24:18.635499,229,student_229,電機系 (EE),大一 (freshman),輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:24:19.635499,230,student_230,電機系 (EE),大一 (freshman),輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:24:20.635499,231,student_231,電機系 (EE),大一 (freshman),輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:24:21.635499,232,student_232,電機系 (EE),大一 (freshman),輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:24:22.635499,233,student_233,電機系 (EE),大一 (freshman),輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:24:23.635499,234,student_234,電機系 (EE),大一 (freshman),輔系:資工系 (minor in CS),無,無
+2025-01-22 00:24:24.635499,235,student_235,電機系 (EE),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:24:25.635499,236,student_236,電機系 (EE),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:24:26.635499,237,student_237,電機系 (EE),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:24:27.635499,238,student_238,電機系 (EE),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:24:28.635499,239,student_239,電機系 (EE),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:24:29.635499,240,student_240,電機系 (EE),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:24:30.635499,241,student_241,電機系 (EE),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:24:31.635499,242,student_242,電機系 (EE),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:24:32.635499,243,student_243,電機系 (EE),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:24:33.635499,244,student_244,電機系 (EE),大一 (freshman),無,李教授班,李教授班
+2025-01-22 00:24:34.635499,245,student_245,電機系 (EE),大一 (freshman),無,李教授班,高教授班
+2025-01-22 00:24:35.635499,246,student_246,電機系 (EE),大一 (freshman),無,李教授班,無
+2025-01-22 00:24:36.635499,247,student_247,電機系 (EE),大一 (freshman),無,高教授班,李教授班
+2025-01-22 00:24:37.635499,248,student_248,電機系 (EE),大一 (freshman),無,高教授班,高教授班
+2025-01-22 00:24:38.635499,249,student_249,電機系 (EE),大一 (freshman),無,高教授班,無
+2025-01-22 00:24:39.635499,250,student_250,電機系 (EE),大一 (freshman),無,無,李教授班
+2025-01-22 00:24:40.635499,251,student_251,電機系 (EE),大一 (freshman),無,無,高教授班
+2025-01-22 00:24:41.635499,252,student_252,電機系 (EE),大一 (freshman),無,無,無
+2025-01-22 00:24:42.635499,253,student_253,電機系 (EE),大二 (sophomore),雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:24:43.635499,254,student_254,電機系 (EE),大二 (sophomore),雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:24:44.635499,255,student_255,電機系 (EE),大二 (sophomore),雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:24:45.635499,256,student_256,電機系 (EE),大二 (sophomore),雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:24:46.635499,257,student_257,電機系 (EE),大二 (sophomore),雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:24:47.635499,258,student_258,電機系 (EE),大二 (sophomore),雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:24:48.635499,259,student_259,電機系 (EE),大二 (sophomore),雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:24:49.635499,260,student_260,電機系 (EE),大二 (sophomore),雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:24:50.635499,261,student_261,電機系 (EE),大二 (sophomore),雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:24:51.635499,262,student_262,電機系 (EE),大二 (sophomore),輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:24:52.635499,263,student_263,電機系 (EE),大二 (sophomore),輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:24:53.635499,264,student_264,電機系 (EE),大二 (sophomore),輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:24:54.635499,265,student_265,電機系 (EE),大二 (sophomore),輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:24:55.635499,266,student_266,電機系 (EE),大二 (sophomore),輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:24:56.635499,267,student_267,電機系 (EE),大二 (sophomore),輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:24:57.635499,268,student_268,電機系 (EE),大二 (sophomore),輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:24:58.635499,269,student_269,電機系 (EE),大二 (sophomore),輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:24:59.635499,270,student_270,電機系 (EE),大二 (sophomore),輔系:資工系 (minor in CS),無,無
+2025-01-22 00:25:00.635499,271,student_271,電機系 (EE),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:25:01.635499,272,student_272,電機系 (EE),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:25:02.635499,273,student_273,電機系 (EE),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:25:03.635499,274,student_274,電機系 (EE),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:25:04.635499,275,student_275,電機系 (EE),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:25:05.635499,276,student_276,電機系 (EE),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:25:06.635499,277,student_277,電機系 (EE),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:25:07.635499,278,student_278,電機系 (EE),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:25:08.635499,279,student_279,電機系 (EE),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:25:09.635499,280,student_280,電機系 (EE),大二 (sophomore),無,李教授班,李教授班
+2025-01-22 00:25:10.635499,281,student_281,電機系 (EE),大二 (sophomore),無,李教授班,高教授班
+2025-01-22 00:25:11.635499,282,student_282,電機系 (EE),大二 (sophomore),無,李教授班,無
+2025-01-22 00:25:12.635499,283,student_283,電機系 (EE),大二 (sophomore),無,高教授班,李教授班
+2025-01-22 00:25:13.635499,284,student_284,電機系 (EE),大二 (sophomore),無,高教授班,高教授班
+2025-01-22 00:25:14.635499,285,student_285,電機系 (EE),大二 (sophomore),無,高教授班,無
+2025-01-22 00:25:15.635499,286,student_286,電機系 (EE),大二 (sophomore),無,無,李教授班
+2025-01-22 00:25:16.635499,287,student_287,電機系 (EE),大二 (sophomore),無,無,高教授班
+2025-01-22 00:25:17.635499,288,student_288,電機系 (EE),大二 (sophomore),無,無,無
+2025-01-22 00:25:18.635499,289,student_289,電機系 (EE),大三 (junior),雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:25:19.635499,290,student_290,電機系 (EE),大三 (junior),雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:25:20.635499,291,student_291,電機系 (EE),大三 (junior),雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:25:21.635499,292,student_292,電機系 (EE),大三 (junior),雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:25:22.635499,293,student_293,電機系 (EE),大三 (junior),雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:25:23.635499,294,student_294,電機系 (EE),大三 (junior),雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:25:24.635499,295,student_295,電機系 (EE),大三 (junior),雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:25:25.635499,296,student_296,電機系 (EE),大三 (junior),雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:25:26.635499,297,student_297,電機系 (EE),大三 (junior),雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:25:27.635499,298,student_298,電機系 (EE),大三 (junior),輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:25:28.635499,299,student_299,電機系 (EE),大三 (junior),輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:25:29.635499,300,student_300,電機系 (EE),大三 (junior),輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:25:30.635499,301,student_301,電機系 (EE),大三 (junior),輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:25:31.635499,302,student_302,電機系 (EE),大三 (junior),輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:25:32.635499,303,student_303,電機系 (EE),大三 (junior),輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:25:33.635499,304,student_304,電機系 (EE),大三 (junior),輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:25:34.635499,305,student_305,電機系 (EE),大三 (junior),輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:25:35.635499,306,student_306,電機系 (EE),大三 (junior),輔系:資工系 (minor in CS),無,無
+2025-01-22 00:25:36.635499,307,student_307,電機系 (EE),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:25:37.635499,308,student_308,電機系 (EE),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:25:38.635499,309,student_309,電機系 (EE),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:25:39.635499,310,student_310,電機系 (EE),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:25:40.635499,311,student_311,電機系 (EE),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:25:41.635499,312,student_312,電機系 (EE),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:25:42.635499,313,student_313,電機系 (EE),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:25:43.635499,314,student_314,電機系 (EE),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:25:44.635499,315,student_315,電機系 (EE),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:25:45.635499,316,student_316,電機系 (EE),大三 (junior),無,李教授班,李教授班
+2025-01-22 00:25:46.635499,317,student_317,電機系 (EE),大三 (junior),無,李教授班,高教授班
+2025-01-22 00:25:47.635499,318,student_318,電機系 (EE),大三 (junior),無,李教授班,無
+2025-01-22 00:25:48.635499,319,student_319,電機系 (EE),大三 (junior),無,高教授班,李教授班
+2025-01-22 00:25:49.635499,320,student_320,電機系 (EE),大三 (junior),無,高教授班,高教授班
+2025-01-22 00:25:50.635499,321,student_321,電機系 (EE),大三 (junior),無,高教授班,無
+2025-01-22 00:25:51.635499,322,student_322,電機系 (EE),大三 (junior),無,無,李教授班
+2025-01-22 00:25:52.635499,323,student_323,電機系 (EE),大三 (junior),無,無,高教授班
+2025-01-22 00:25:53.635499,324,student_324,電機系 (EE),大三 (junior),無,無,無
+2025-01-22 00:25:54.635499,325,student_325,電機系 (EE),大四 (senior),雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:25:55.635499,326,student_326,電機系 (EE),大四 (senior),雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:25:56.635499,327,student_327,電機系 (EE),大四 (senior),雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:25:57.635499,328,student_328,電機系 (EE),大四 (senior),雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:25:58.635499,329,student_329,電機系 (EE),大四 (senior),雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:25:59.635499,330,student_330,電機系 (EE),大四 (senior),雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:26:00.635499,331,student_331,電機系 (EE),大四 (senior),雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:26:01.635499,332,student_332,電機系 (EE),大四 (senior),雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:26:02.635499,333,student_333,電機系 (EE),大四 (senior),雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:26:03.635499,334,student_334,電機系 (EE),大四 (senior),輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:26:04.635499,335,student_335,電機系 (EE),大四 (senior),輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:26:05.635499,336,student_336,電機系 (EE),大四 (senior),輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:26:06.635499,337,student_337,電機系 (EE),大四 (senior),輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:26:07.635499,338,student_338,電機系 (EE),大四 (senior),輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:26:08.635499,339,student_339,電機系 (EE),大四 (senior),輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:26:09.635499,340,student_340,電機系 (EE),大四 (senior),輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:26:10.635499,341,student_341,電機系 (EE),大四 (senior),輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:26:11.635499,342,student_342,電機系 (EE),大四 (senior),輔系:資工系 (minor in CS),無,無
+2025-01-22 00:26:12.635499,343,student_343,電機系 (EE),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:26:13.635499,344,student_344,電機系 (EE),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:26:14.635499,345,student_345,電機系 (EE),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:26:15.635499,346,student_346,電機系 (EE),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:26:16.635499,347,student_347,電機系 (EE),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:26:17.635499,348,student_348,電機系 (EE),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:26:18.635499,349,student_349,電機系 (EE),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:26:19.635499,350,student_350,電機系 (EE),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:26:20.635499,351,student_351,電機系 (EE),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:26:21.635499,352,student_352,電機系 (EE),大四 (senior),無,李教授班,李教授班
+2025-01-22 00:26:22.635499,353,student_353,電機系 (EE),大四 (senior),無,李教授班,高教授班
+2025-01-22 00:26:23.635499,354,student_354,電機系 (EE),大四 (senior),無,李教授班,無
+2025-01-22 00:26:24.635499,355,student_355,電機系 (EE),大四 (senior),無,高教授班,李教授班
+2025-01-22 00:26:25.635499,356,student_356,電機系 (EE),大四 (senior),無,高教授班,高教授班
+2025-01-22 00:26:26.635499,357,student_357,電機系 (EE),大四 (senior),無,高教授班,無
+2025-01-22 00:26:27.635499,358,student_358,電機系 (EE),大四 (senior),無,無,李教授班
+2025-01-22 00:26:28.635499,359,student_359,電機系 (EE),大四 (senior),無,無,高教授班
+2025-01-22 00:26:29.635499,360,student_360,電機系 (EE),大四 (senior),無,無,無
+2025-01-22 00:26:30.635499,361,student_361,電機系 (EE),大五、大六、或大七,雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:26:31.635499,362,student_362,電機系 (EE),大五、大六、或大七,雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:26:32.635499,363,student_363,電機系 (EE),大五、大六、或大七,雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:26:33.635499,364,student_364,電機系 (EE),大五、大六、或大七,雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:26:34.635499,365,student_365,電機系 (EE),大五、大六、或大七,雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:26:35.635499,366,student_366,電機系 (EE),大五、大六、或大七,雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:26:36.635499,367,student_367,電機系 (EE),大五、大六、或大七,雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:26:37.635499,368,student_368,電機系 (EE),大五、大六、或大七,雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:26:38.635499,369,student_369,電機系 (EE),大五、大六、或大七,雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:26:39.635499,370,student_370,電機系 (EE),大五、大六、或大七,輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:26:40.635499,371,student_371,電機系 (EE),大五、大六、或大七,輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:26:41.635499,372,student_372,電機系 (EE),大五、大六、或大七,輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:26:42.635499,373,student_373,電機系 (EE),大五、大六、或大七,輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:26:43.635499,374,student_374,電機系 (EE),大五、大六、或大七,輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:26:44.635499,375,student_375,電機系 (EE),大五、大六、或大七,輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:26:45.635499,376,student_376,電機系 (EE),大五、大六、或大七,輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:26:46.635499,377,student_377,電機系 (EE),大五、大六、或大七,輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:26:47.635499,378,student_378,電機系 (EE),大五、大六、或大七,輔系:資工系 (minor in CS),無,無
+2025-01-22 00:26:48.635499,379,student_379,電機系 (EE),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:26:49.635499,380,student_380,電機系 (EE),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:26:50.635499,381,student_381,電機系 (EE),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:26:51.635499,382,student_382,電機系 (EE),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:26:52.635499,383,student_383,電機系 (EE),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:26:53.635499,384,student_384,電機系 (EE),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:26:54.635499,385,student_385,電機系 (EE),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:26:55.635499,386,student_386,電機系 (EE),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:26:56.635499,387,student_387,電機系 (EE),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:26:57.635499,388,student_388,電機系 (EE),大五、大六、或大七,無,李教授班,李教授班
+2025-01-22 00:26:58.635499,389,student_389,電機系 (EE),大五、大六、或大七,無,李教授班,高教授班
+2025-01-22 00:26:59.635499,390,student_390,電機系 (EE),大五、大六、或大七,無,李教授班,無
+2025-01-22 00:27:00.635499,391,student_391,電機系 (EE),大五、大六、或大七,無,高教授班,李教授班
+2025-01-22 00:27:01.635499,392,student_392,電機系 (EE),大五、大六、或大七,無,高教授班,高教授班
+2025-01-22 00:27:02.635499,393,student_393,電機系 (EE),大五、大六、或大七,無,高教授班,無
+2025-01-22 00:27:03.635499,394,student_394,電機系 (EE),大五、大六、或大七,無,無,李教授班
+2025-01-22 00:27:04.635499,395,student_395,電機系 (EE),大五、大六、或大七,無,無,高教授班
+2025-01-22 00:27:05.635499,396,student_396,電機系 (EE),大五、大六、或大七,無,無,無
+2025-01-22 00:27:06.635499,397,student_397,電機系 (EE),其他,雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:27:07.635499,398,student_398,電機系 (EE),其他,雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:27:08.635499,399,student_399,電機系 (EE),其他,雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:27:09.635499,400,student_400,電機系 (EE),其他,雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:27:10.635499,401,student_401,電機系 (EE),其他,雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:27:11.635499,402,student_402,電機系 (EE),其他,雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:27:12.635499,403,student_403,電機系 (EE),其他,雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:27:13.635499,404,student_404,電機系 (EE),其他,雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:27:14.635499,405,student_405,電機系 (EE),其他,雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:27:15.635499,406,student_406,電機系 (EE),其他,輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:27:16.635499,407,student_407,電機系 (EE),其他,輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:27:17.635499,408,student_408,電機系 (EE),其他,輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:27:18.635499,409,student_409,電機系 (EE),其他,輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:27:19.635499,410,student_410,電機系 (EE),其他,輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:27:20.635499,411,student_411,電機系 (EE),其他,輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:27:21.635499,412,student_412,電機系 (EE),其他,輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:27:22.635499,413,student_413,電機系 (EE),其他,輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:27:23.635499,414,student_414,電機系 (EE),其他,輔系:資工系 (minor in CS),無,無
+2025-01-22 00:27:24.635499,415,student_415,電機系 (EE),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:27:25.635499,416,student_416,電機系 (EE),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:27:26.635499,417,student_417,電機系 (EE),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:27:27.635499,418,student_418,電機系 (EE),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:27:28.635499,419,student_419,電機系 (EE),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:27:29.635499,420,student_420,電機系 (EE),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:27:30.635499,421,student_421,電機系 (EE),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:27:31.635499,422,student_422,電機系 (EE),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:27:32.635499,423,student_423,電機系 (EE),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:27:33.635499,424,student_424,電機系 (EE),其他,無,李教授班,李教授班
+2025-01-22 00:27:34.635499,425,student_425,電機系 (EE),其他,無,李教授班,高教授班
+2025-01-22 00:27:35.635499,426,student_426,電機系 (EE),其他,無,李教授班,無
+2025-01-22 00:27:36.635499,427,student_427,電機系 (EE),其他,無,高教授班,李教授班
+2025-01-22 00:27:37.635499,428,student_428,電機系 (EE),其他,無,高教授班,高教授班
+2025-01-22 00:27:38.635499,429,student_429,電機系 (EE),其他,無,高教授班,無
+2025-01-22 00:27:39.635499,430,student_430,電機系 (EE),其他,無,無,李教授班
+2025-01-22 00:27:40.635499,431,student_431,電機系 (EE),其他,無,無,高教授班
+2025-01-22 00:27:41.635499,432,student_432,電機系 (EE),其他,無,無,無
+2025-01-22 00:27:42.635499,433,student_433,電資學院學士班 (U-EECS),大一 (freshman),雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:27:43.635499,434,student_434,電資學院學士班 (U-EECS),大一 (freshman),雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:27:44.635499,435,student_435,電資學院學士班 (U-EECS),大一 (freshman),雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:27:45.635499,436,student_436,電資學院學士班 (U-EECS),大一 (freshman),雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:27:46.635499,437,student_437,電資學院學士班 (U-EECS),大一 (freshman),雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:27:47.635499,438,student_438,電資學院學士班 (U-EECS),大一 (freshman),雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:27:48.635499,439,student_439,電資學院學士班 (U-EECS),大一 (freshman),雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:27:49.635499,440,student_440,電資學院學士班 (U-EECS),大一 (freshman),雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:27:50.635499,441,student_441,電資學院學士班 (U-EECS),大一 (freshman),雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:27:51.635499,442,student_442,電資學院學士班 (U-EECS),大一 (freshman),輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:27:52.635499,443,student_443,電資學院學士班 (U-EECS),大一 (freshman),輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:27:53.635499,444,student_444,電資學院學士班 (U-EECS),大一 (freshman),輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:27:54.635499,445,student_445,電資學院學士班 (U-EECS),大一 (freshman),輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:27:55.635499,446,student_446,電資學院學士班 (U-EECS),大一 (freshman),輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:27:56.635499,447,student_447,電資學院學士班 (U-EECS),大一 (freshman),輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:27:57.635499,448,student_448,電資學院學士班 (U-EECS),大一 (freshman),輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:27:58.635499,449,student_449,電資學院學士班 (U-EECS),大一 (freshman),輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:27:59.635499,450,student_450,電資學院學士班 (U-EECS),大一 (freshman),輔系:資工系 (minor in CS),無,無
+2025-01-22 00:28:00.635499,451,student_451,電資學院學士班 (U-EECS),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:28:01.635499,452,student_452,電資學院學士班 (U-EECS),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:28:02.635499,453,student_453,電資學院學士班 (U-EECS),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:28:03.635499,454,student_454,電資學院學士班 (U-EECS),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:28:04.635499,455,student_455,電資學院學士班 (U-EECS),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:28:05.635499,456,student_456,電資學院學士班 (U-EECS),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:28:06.635499,457,student_457,電資學院學士班 (U-EECS),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:28:07.635499,458,student_458,電資學院學士班 (U-EECS),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:28:08.635499,459,student_459,電資學院學士班 (U-EECS),大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:28:09.635499,460,student_460,電資學院學士班 (U-EECS),大一 (freshman),無,李教授班,李教授班
+2025-01-22 00:28:10.635499,461,student_461,電資學院學士班 (U-EECS),大一 (freshman),無,李教授班,高教授班
+2025-01-22 00:28:11.635499,462,student_462,電資學院學士班 (U-EECS),大一 (freshman),無,李教授班,無
+2025-01-22 00:28:12.635499,463,student_463,電資學院學士班 (U-EECS),大一 (freshman),無,高教授班,李教授班
+2025-01-22 00:28:13.635499,464,student_464,電資學院學士班 (U-EECS),大一 (freshman),無,高教授班,高教授班
+2025-01-22 00:28:14.635499,465,student_465,電資學院學士班 (U-EECS),大一 (freshman),無,高教授班,無
+2025-01-22 00:28:15.635499,466,student_466,電資學院學士班 (U-EECS),大一 (freshman),無,無,李教授班
+2025-01-22 00:28:16.635499,467,student_467,電資學院學士班 (U-EECS),大一 (freshman),無,無,高教授班
+2025-01-22 00:28:17.635499,468,student_468,電資學院學士班 (U-EECS),大一 (freshman),無,無,無
+2025-01-22 00:28:18.635499,469,student_469,電資學院學士班 (U-EECS),大二 (sophomore),雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:28:19.635499,470,student_470,電資學院學士班 (U-EECS),大二 (sophomore),雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:28:20.635499,471,student_471,電資學院學士班 (U-EECS),大二 (sophomore),雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:28:21.635499,472,student_472,電資學院學士班 (U-EECS),大二 (sophomore),雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:28:22.635499,473,student_473,電資學院學士班 (U-EECS),大二 (sophomore),雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:28:23.635499,474,student_474,電資學院學士班 (U-EECS),大二 (sophomore),雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:28:24.635499,475,student_475,電資學院學士班 (U-EECS),大二 (sophomore),雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:28:25.635499,476,student_476,電資學院學士班 (U-EECS),大二 (sophomore),雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:28:26.635499,477,student_477,電資學院學士班 (U-EECS),大二 (sophomore),雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:28:27.635499,478,student_478,電資學院學士班 (U-EECS),大二 (sophomore),輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:28:28.635499,479,student_479,電資學院學士班 (U-EECS),大二 (sophomore),輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:28:29.635499,480,student_480,電資學院學士班 (U-EECS),大二 (sophomore),輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:28:30.635499,481,student_481,電資學院學士班 (U-EECS),大二 (sophomore),輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:28:31.635499,482,student_482,電資學院學士班 (U-EECS),大二 (sophomore),輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:28:32.635499,483,student_483,電資學院學士班 (U-EECS),大二 (sophomore),輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:28:33.635499,484,student_484,電資學院學士班 (U-EECS),大二 (sophomore),輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:28:34.635499,485,student_485,電資學院學士班 (U-EECS),大二 (sophomore),輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:28:35.635499,486,student_486,電資學院學士班 (U-EECS),大二 (sophomore),輔系:資工系 (minor in CS),無,無
+2025-01-22 00:28:36.635499,487,student_487,電資學院學士班 (U-EECS),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:28:37.635499,488,student_488,電資學院學士班 (U-EECS),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:28:38.635499,489,student_489,電資學院學士班 (U-EECS),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:28:39.635499,490,student_490,電資學院學士班 (U-EECS),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:28:40.635499,491,student_491,電資學院學士班 (U-EECS),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:28:41.635499,492,student_492,電資學院學士班 (U-EECS),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:28:42.635499,493,student_493,電資學院學士班 (U-EECS),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:28:43.635499,494,student_494,電資學院學士班 (U-EECS),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:28:44.635499,495,student_495,電資學院學士班 (U-EECS),大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:28:45.635499,496,student_496,電資學院學士班 (U-EECS),大二 (sophomore),無,李教授班,李教授班
+2025-01-22 00:28:46.635499,497,student_497,電資學院學士班 (U-EECS),大二 (sophomore),無,李教授班,高教授班
+2025-01-22 00:28:47.635499,498,student_498,電資學院學士班 (U-EECS),大二 (sophomore),無,李教授班,無
+2025-01-22 00:28:48.635499,499,student_499,電資學院學士班 (U-EECS),大二 (sophomore),無,高教授班,李教授班
+2025-01-22 00:28:49.635499,500,student_500,電資學院學士班 (U-EECS),大二 (sophomore),無,高教授班,高教授班
+2025-01-22 00:28:50.635499,501,student_501,電資學院學士班 (U-EECS),大二 (sophomore),無,高教授班,無
+2025-01-22 00:28:51.635499,502,student_502,電資學院學士班 (U-EECS),大二 (sophomore),無,無,李教授班
+2025-01-22 00:28:52.635499,503,student_503,電資學院學士班 (U-EECS),大二 (sophomore),無,無,高教授班
+2025-01-22 00:28:53.635499,504,student_504,電資學院學士班 (U-EECS),大二 (sophomore),無,無,無
+2025-01-22 00:28:54.635499,505,student_505,電資學院學士班 (U-EECS),大三 (junior),雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:28:55.635499,506,student_506,電資學院學士班 (U-EECS),大三 (junior),雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:28:56.635499,507,student_507,電資學院學士班 (U-EECS),大三 (junior),雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:28:57.635499,508,student_508,電資學院學士班 (U-EECS),大三 (junior),雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:28:58.635499,509,student_509,電資學院學士班 (U-EECS),大三 (junior),雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:28:59.635499,510,student_510,電資學院學士班 (U-EECS),大三 (junior),雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:29:00.635499,511,student_511,電資學院學士班 (U-EECS),大三 (junior),雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:29:01.635499,512,student_512,電資學院學士班 (U-EECS),大三 (junior),雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:29:02.635499,513,student_513,電資學院學士班 (U-EECS),大三 (junior),雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:29:03.635499,514,student_514,電資學院學士班 (U-EECS),大三 (junior),輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:29:04.635499,515,student_515,電資學院學士班 (U-EECS),大三 (junior),輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:29:05.635499,516,student_516,電資學院學士班 (U-EECS),大三 (junior),輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:29:06.635499,517,student_517,電資學院學士班 (U-EECS),大三 (junior),輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:29:07.635499,518,student_518,電資學院學士班 (U-EECS),大三 (junior),輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:29:08.635499,519,student_519,電資學院學士班 (U-EECS),大三 (junior),輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:29:09.635499,520,student_520,電資學院學士班 (U-EECS),大三 (junior),輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:29:10.635499,521,student_521,電資學院學士班 (U-EECS),大三 (junior),輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:29:11.635499,522,student_522,電資學院學士班 (U-EECS),大三 (junior),輔系:資工系 (minor in CS),無,無
+2025-01-22 00:29:12.635499,523,student_523,電資學院學士班 (U-EECS),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:29:13.635499,524,student_524,電資學院學士班 (U-EECS),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:29:14.635499,525,student_525,電資學院學士班 (U-EECS),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:29:15.635499,526,student_526,電資學院學士班 (U-EECS),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:29:16.635499,527,student_527,電資學院學士班 (U-EECS),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:29:17.635499,528,student_528,電資學院學士班 (U-EECS),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:29:18.635499,529,student_529,電資學院學士班 (U-EECS),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:29:19.635499,530,student_530,電資學院學士班 (U-EECS),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:29:20.635499,531,student_531,電資學院學士班 (U-EECS),大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:29:21.635499,532,student_532,電資學院學士班 (U-EECS),大三 (junior),無,李教授班,李教授班
+2025-01-22 00:29:22.635499,533,student_533,電資學院學士班 (U-EECS),大三 (junior),無,李教授班,高教授班
+2025-01-22 00:29:23.635499,534,student_534,電資學院學士班 (U-EECS),大三 (junior),無,李教授班,無
+2025-01-22 00:29:24.635499,535,student_535,電資學院學士班 (U-EECS),大三 (junior),無,高教授班,李教授班
+2025-01-22 00:29:25.635499,536,student_536,電資學院學士班 (U-EECS),大三 (junior),無,高教授班,高教授班
+2025-01-22 00:29:26.635499,537,student_537,電資學院學士班 (U-EECS),大三 (junior),無,高教授班,無
+2025-01-22 00:29:27.635499,538,student_538,電資學院學士班 (U-EECS),大三 (junior),無,無,李教授班
+2025-01-22 00:29:28.635499,539,student_539,電資學院學士班 (U-EECS),大三 (junior),無,無,高教授班
+2025-01-22 00:29:29.635499,540,student_540,電資學院學士班 (U-EECS),大三 (junior),無,無,無
+2025-01-22 00:29:30.635499,541,student_541,電資學院學士班 (U-EECS),大四 (senior),雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:29:31.635499,542,student_542,電資學院學士班 (U-EECS),大四 (senior),雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:29:32.635499,543,student_543,電資學院學士班 (U-EECS),大四 (senior),雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:29:33.635499,544,student_544,電資學院學士班 (U-EECS),大四 (senior),雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:29:34.635499,545,student_545,電資學院學士班 (U-EECS),大四 (senior),雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:29:35.635499,546,student_546,電資學院學士班 (U-EECS),大四 (senior),雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:29:36.635499,547,student_547,電資學院學士班 (U-EECS),大四 (senior),雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:29:37.635499,548,student_548,電資學院學士班 (U-EECS),大四 (senior),雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:29:38.635499,549,student_549,電資學院學士班 (U-EECS),大四 (senior),雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:29:39.635499,550,student_550,電資學院學士班 (U-EECS),大四 (senior),輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:29:40.635499,551,student_551,電資學院學士班 (U-EECS),大四 (senior),輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:29:41.635499,552,student_552,電資學院學士班 (U-EECS),大四 (senior),輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:29:42.635499,553,student_553,電資學院學士班 (U-EECS),大四 (senior),輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:29:43.635499,554,student_554,電資學院學士班 (U-EECS),大四 (senior),輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:29:44.635499,555,student_555,電資學院學士班 (U-EECS),大四 (senior),輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:29:45.635499,556,student_556,電資學院學士班 (U-EECS),大四 (senior),輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:29:46.635499,557,student_557,電資學院學士班 (U-EECS),大四 (senior),輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:29:47.635499,558,student_558,電資學院學士班 (U-EECS),大四 (senior),輔系:資工系 (minor in CS),無,無
+2025-01-22 00:29:48.635499,559,student_559,電資學院學士班 (U-EECS),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:29:49.635499,560,student_560,電資學院學士班 (U-EECS),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:29:50.635499,561,student_561,電資學院學士班 (U-EECS),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:29:51.635499,562,student_562,電資學院學士班 (U-EECS),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:29:52.635499,563,student_563,電資學院學士班 (U-EECS),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:29:53.635499,564,student_564,電資學院學士班 (U-EECS),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:29:54.635499,565,student_565,電資學院學士班 (U-EECS),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:29:55.635499,566,student_566,電資學院學士班 (U-EECS),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:29:56.635499,567,student_567,電資學院學士班 (U-EECS),大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:29:57.635499,568,student_568,電資學院學士班 (U-EECS),大四 (senior),無,李教授班,李教授班
+2025-01-22 00:29:58.635499,569,student_569,電資學院學士班 (U-EECS),大四 (senior),無,李教授班,高教授班
+2025-01-22 00:29:59.635499,570,student_570,電資學院學士班 (U-EECS),大四 (senior),無,李教授班,無
+2025-01-22 00:30:00.635499,571,student_571,電資學院學士班 (U-EECS),大四 (senior),無,高教授班,李教授班
+2025-01-22 00:30:01.635499,572,student_572,電資學院學士班 (U-EECS),大四 (senior),無,高教授班,高教授班
+2025-01-22 00:30:02.635499,573,student_573,電資學院學士班 (U-EECS),大四 (senior),無,高教授班,無
+2025-01-22 00:30:03.635499,574,student_574,電資學院學士班 (U-EECS),大四 (senior),無,無,李教授班
+2025-01-22 00:30:04.635499,575,student_575,電資學院學士班 (U-EECS),大四 (senior),無,無,高教授班
+2025-01-22 00:30:05.635499,576,student_576,電資學院學士班 (U-EECS),大四 (senior),無,無,無
+2025-01-22 00:30:06.635499,577,student_577,電資學院學士班 (U-EECS),大五、大六、或大七,雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:30:07.635499,578,student_578,電資學院學士班 (U-EECS),大五、大六、或大七,雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:30:08.635499,579,student_579,電資學院學士班 (U-EECS),大五、大六、或大七,雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:30:09.635499,580,student_580,電資學院學士班 (U-EECS),大五、大六、或大七,雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:30:10.635499,581,student_581,電資學院學士班 (U-EECS),大五、大六、或大七,雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:30:11.635499,582,student_582,電資學院學士班 (U-EECS),大五、大六、或大七,雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:30:12.635499,583,student_583,電資學院學士班 (U-EECS),大五、大六、或大七,雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:30:13.635499,584,student_584,電資學院學士班 (U-EECS),大五、大六、或大七,雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:30:14.635499,585,student_585,電資學院學士班 (U-EECS),大五、大六、或大七,雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:30:15.635499,586,student_586,電資學院學士班 (U-EECS),大五、大六、或大七,輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:30:16.635499,587,student_587,電資學院學士班 (U-EECS),大五、大六、或大七,輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:30:17.635499,588,student_588,電資學院學士班 (U-EECS),大五、大六、或大七,輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:30:18.635499,589,student_589,電資學院學士班 (U-EECS),大五、大六、或大七,輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:30:19.635499,590,student_590,電資學院學士班 (U-EECS),大五、大六、或大七,輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:30:20.635499,591,student_591,電資學院學士班 (U-EECS),大五、大六、或大七,輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:30:21.635499,592,student_592,電資學院學士班 (U-EECS),大五、大六、或大七,輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:30:22.635499,593,student_593,電資學院學士班 (U-EECS),大五、大六、或大七,輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:30:23.635499,594,student_594,電資學院學士班 (U-EECS),大五、大六、或大七,輔系:資工系 (minor in CS),無,無
+2025-01-22 00:30:24.635499,595,student_595,電資學院學士班 (U-EECS),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:30:25.635499,596,student_596,電資學院學士班 (U-EECS),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:30:26.635499,597,student_597,電資學院學士班 (U-EECS),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:30:27.635499,598,student_598,電資學院學士班 (U-EECS),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:30:28.635499,599,student_599,電資學院學士班 (U-EECS),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:30:29.635499,600,student_600,電資學院學士班 (U-EECS),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:30:30.635499,601,student_601,電資學院學士班 (U-EECS),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:30:31.635499,602,student_602,電資學院學士班 (U-EECS),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:30:32.635499,603,student_603,電資學院學士班 (U-EECS),大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:30:33.635499,604,student_604,電資學院學士班 (U-EECS),大五、大六、或大七,無,李教授班,李教授班
+2025-01-22 00:30:34.635499,605,student_605,電資學院學士班 (U-EECS),大五、大六、或大七,無,李教授班,高教授班
+2025-01-22 00:30:35.635499,606,student_606,電資學院學士班 (U-EECS),大五、大六、或大七,無,李教授班,無
+2025-01-22 00:30:36.635499,607,student_607,電資學院學士班 (U-EECS),大五、大六、或大七,無,高教授班,李教授班
+2025-01-22 00:30:37.635499,608,student_608,電資學院學士班 (U-EECS),大五、大六、或大七,無,高教授班,高教授班
+2025-01-22 00:30:38.635499,609,student_609,電資學院學士班 (U-EECS),大五、大六、或大七,無,高教授班,無
+2025-01-22 00:30:39.635499,610,student_610,電資學院學士班 (U-EECS),大五、大六、或大七,無,無,李教授班
+2025-01-22 00:30:40.635499,611,student_611,電資學院學士班 (U-EECS),大五、大六、或大七,無,無,高教授班
+2025-01-22 00:30:41.635499,612,student_612,電資學院學士班 (U-EECS),大五、大六、或大七,無,無,無
+2025-01-22 00:30:42.635499,613,student_613,電資學院學士班 (U-EECS),其他,雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:30:43.635499,614,student_614,電資學院學士班 (U-EECS),其他,雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:30:44.635499,615,student_615,電資學院學士班 (U-EECS),其他,雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:30:45.635499,616,student_616,電資學院學士班 (U-EECS),其他,雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:30:46.635499,617,student_617,電資學院學士班 (U-EECS),其他,雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:30:47.635499,618,student_618,電資學院學士班 (U-EECS),其他,雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:30:48.635499,619,student_619,電資學院學士班 (U-EECS),其他,雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:30:49.635499,620,student_620,電資學院學士班 (U-EECS),其他,雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:30:50.635499,621,student_621,電資學院學士班 (U-EECS),其他,雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:30:51.635499,622,student_622,電資學院學士班 (U-EECS),其他,輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:30:52.635499,623,student_623,電資學院學士班 (U-EECS),其他,輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:30:53.635499,624,student_624,電資學院學士班 (U-EECS),其他,輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:30:54.635499,625,student_625,電資學院學士班 (U-EECS),其他,輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:30:55.635499,626,student_626,電資學院學士班 (U-EECS),其他,輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:30:56.635499,627,student_627,電資學院學士班 (U-EECS),其他,輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:30:57.635499,628,student_628,電資學院學士班 (U-EECS),其他,輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:30:58.635499,629,student_629,電資學院學士班 (U-EECS),其他,輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:30:59.635499,630,student_630,電資學院學士班 (U-EECS),其他,輔系:資工系 (minor in CS),無,無
+2025-01-22 00:31:00.635499,631,student_631,電資學院學士班 (U-EECS),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:31:01.635499,632,student_632,電資學院學士班 (U-EECS),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:31:02.635499,633,student_633,電資學院學士班 (U-EECS),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:31:03.635499,634,student_634,電資學院學士班 (U-EECS),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:31:04.635499,635,student_635,電資學院學士班 (U-EECS),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:31:05.635499,636,student_636,電資學院學士班 (U-EECS),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:31:06.635499,637,student_637,電資學院學士班 (U-EECS),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:31:07.635499,638,student_638,電資學院學士班 (U-EECS),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:31:08.635499,639,student_639,電資學院學士班 (U-EECS),其他,以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:31:09.635499,640,student_640,電資學院學士班 (U-EECS),其他,無,李教授班,李教授班
+2025-01-22 00:31:10.635499,641,student_641,電資學院學士班 (U-EECS),其他,無,李教授班,高教授班
+2025-01-22 00:31:11.635499,642,student_642,電資學院學士班 (U-EECS),其他,無,李教授班,無
+2025-01-22 00:31:12.635499,643,student_643,電資學院學士班 (U-EECS),其他,無,高教授班,李教授班
+2025-01-22 00:31:13.635499,644,student_644,電資學院學士班 (U-EECS),其他,無,高教授班,高教授班
+2025-01-22 00:31:14.635499,645,student_645,電資學院學士班 (U-EECS),其他,無,高教授班,無
+2025-01-22 00:31:15.635499,646,student_646,電資學院學士班 (U-EECS),其他,無,無,李教授班
+2025-01-22 00:31:16.635499,647,student_647,電資學院學士班 (U-EECS),其他,無,無,高教授班
+2025-01-22 00:31:17.635499,648,student_648,電資學院學士班 (U-EECS),其他,無,無,無
+2025-01-22 00:31:18.635499,649,student_649,其他,大一 (freshman),雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:31:19.635499,650,student_650,其他,大一 (freshman),雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:31:20.635499,651,student_651,其他,大一 (freshman),雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:31:21.635499,652,student_652,其他,大一 (freshman),雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:31:22.635499,653,student_653,其他,大一 (freshman),雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:31:23.635499,654,student_654,其他,大一 (freshman),雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:31:24.635499,655,student_655,其他,大一 (freshman),雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:31:25.635499,656,student_656,其他,大一 (freshman),雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:31:26.635499,657,student_657,其他,大一 (freshman),雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:31:27.635499,658,student_658,其他,大一 (freshman),輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:31:28.635499,659,student_659,其他,大一 (freshman),輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:31:29.635499,660,student_660,其他,大一 (freshman),輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:31:30.635499,661,student_661,其他,大一 (freshman),輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:31:31.635499,662,student_662,其他,大一 (freshman),輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:31:32.635499,663,student_663,其他,大一 (freshman),輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:31:33.635499,664,student_664,其他,大一 (freshman),輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:31:34.635499,665,student_665,其他,大一 (freshman),輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:31:35.635499,666,student_666,其他,大一 (freshman),輔系:資工系 (minor in CS),無,無
+2025-01-22 00:31:36.635499,667,student_667,其他,大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:31:37.635499,668,student_668,其他,大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:31:38.635499,669,student_669,其他,大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:31:39.635499,670,student_670,其他,大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:31:40.635499,671,student_671,其他,大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:31:41.635499,672,student_672,其他,大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:31:42.635499,673,student_673,其他,大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:31:43.635499,674,student_674,其他,大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:31:44.635499,675,student_675,其他,大一 (freshman),以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:31:45.635499,676,student_676,其他,大一 (freshman),無,李教授班,李教授班
+2025-01-22 00:31:46.635499,677,student_677,其他,大一 (freshman),無,李教授班,高教授班
+2025-01-22 00:31:47.635499,678,student_678,其他,大一 (freshman),無,李教授班,無
+2025-01-22 00:31:48.635499,679,student_679,其他,大一 (freshman),無,高教授班,李教授班
+2025-01-22 00:31:49.635499,680,student_680,其他,大一 (freshman),無,高教授班,高教授班
+2025-01-22 00:31:50.635499,681,student_681,其他,大一 (freshman),無,高教授班,無
+2025-01-22 00:31:51.635499,682,student_682,其他,大一 (freshman),無,無,李教授班
+2025-01-22 00:31:52.635499,683,student_683,其他,大一 (freshman),無,無,高教授班
+2025-01-22 00:31:53.635499,684,student_684,其他,大一 (freshman),無,無,無
+2025-01-22 00:31:54.635499,685,student_685,其他,大二 (sophomore),雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:31:55.635499,686,student_686,其他,大二 (sophomore),雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:31:56.635499,687,student_687,其他,大二 (sophomore),雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:31:57.635499,688,student_688,其他,大二 (sophomore),雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:31:58.635499,689,student_689,其他,大二 (sophomore),雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:31:59.635499,690,student_690,其他,大二 (sophomore),雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:32:00.635499,691,student_691,其他,大二 (sophomore),雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:32:01.635499,692,student_692,其他,大二 (sophomore),雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:32:02.635499,693,student_693,其他,大二 (sophomore),雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:32:03.635499,694,student_694,其他,大二 (sophomore),輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:32:04.635499,695,student_695,其他,大二 (sophomore),輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:32:05.635499,696,student_696,其他,大二 (sophomore),輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:32:06.635499,697,student_697,其他,大二 (sophomore),輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:32:07.635499,698,student_698,其他,大二 (sophomore),輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:32:08.635499,699,student_699,其他,大二 (sophomore),輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:32:09.635499,700,student_700,其他,大二 (sophomore),輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:32:10.635499,701,student_701,其他,大二 (sophomore),輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:32:11.635499,702,student_702,其他,大二 (sophomore),輔系:資工系 (minor in CS),無,無
+2025-01-22 00:32:12.635499,703,student_703,其他,大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:32:13.635499,704,student_704,其他,大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:32:14.635499,705,student_705,其他,大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:32:15.635499,706,student_706,其他,大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:32:16.635499,707,student_707,其他,大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:32:17.635499,708,student_708,其他,大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:32:18.635499,709,student_709,其他,大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:32:19.635499,710,student_710,其他,大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:32:20.635499,711,student_711,其他,大二 (sophomore),以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:32:21.635499,712,student_712,其他,大二 (sophomore),無,李教授班,李教授班
+2025-01-22 00:32:22.635499,713,student_713,其他,大二 (sophomore),無,李教授班,高教授班
+2025-01-22 00:32:23.635499,714,student_714,其他,大二 (sophomore),無,李教授班,無
+2025-01-22 00:32:24.635499,715,student_715,其他,大二 (sophomore),無,高教授班,李教授班
+2025-01-22 00:32:25.635499,716,student_716,其他,大二 (sophomore),無,高教授班,高教授班
+2025-01-22 00:32:26.635499,717,student_717,其他,大二 (sophomore),無,高教授班,無
+2025-01-22 00:32:27.635499,718,student_718,其他,大二 (sophomore),無,無,李教授班
+2025-01-22 00:32:28.635499,719,student_719,其他,大二 (sophomore),無,無,高教授班
+2025-01-22 00:32:29.635499,720,student_720,其他,大二 (sophomore),無,無,無
+2025-01-22 00:32:30.635499,721,student_721,其他,大三 (junior),雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:32:31.635499,722,student_722,其他,大三 (junior),雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:32:32.635499,723,student_723,其他,大三 (junior),雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:32:33.635499,724,student_724,其他,大三 (junior),雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:32:34.635499,725,student_725,其他,大三 (junior),雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:32:35.635499,726,student_726,其他,大三 (junior),雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:32:36.635499,727,student_727,其他,大三 (junior),雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:32:37.635499,728,student_728,其他,大三 (junior),雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:32:38.635499,729,student_729,其他,大三 (junior),雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:32:39.635499,730,student_730,其他,大三 (junior),輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:32:40.635499,731,student_731,其他,大三 (junior),輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:32:41.635499,732,student_732,其他,大三 (junior),輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:32:42.635499,733,student_733,其他,大三 (junior),輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:32:43.635499,734,student_734,其他,大三 (junior),輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:32:44.635499,735,student_735,其他,大三 (junior),輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:32:45.635499,736,student_736,其他,大三 (junior),輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:32:46.635499,737,student_737,其他,大三 (junior),輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:32:47.635499,738,student_738,其他,大三 (junior),輔系:資工系 (minor in CS),無,無
+2025-01-22 00:32:48.635499,739,student_739,其他,大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:32:49.635499,740,student_740,其他,大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:32:50.635499,741,student_741,其他,大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:32:51.635499,742,student_742,其他,大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:32:52.635499,743,student_743,其他,大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:32:53.635499,744,student_744,其他,大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:32:54.635499,745,student_745,其他,大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:32:55.635499,746,student_746,其他,大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:32:56.635499,747,student_747,其他,大三 (junior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:32:57.635499,748,student_748,其他,大三 (junior),無,李教授班,李教授班
+2025-01-22 00:32:58.635499,749,student_749,其他,大三 (junior),無,李教授班,高教授班
+2025-01-22 00:32:59.635499,750,student_750,其他,大三 (junior),無,李教授班,無
+2025-01-22 00:33:00.635499,751,student_751,其他,大三 (junior),無,高教授班,李教授班
+2025-01-22 00:33:01.635499,752,student_752,其他,大三 (junior),無,高教授班,高教授班
+2025-01-22 00:33:02.635499,753,student_753,其他,大三 (junior),無,高教授班,無
+2025-01-22 00:33:03.635499,754,student_754,其他,大三 (junior),無,無,李教授班
+2025-01-22 00:33:04.635499,755,student_755,其他,大三 (junior),無,無,高教授班
+2025-01-22 00:33:05.635499,756,student_756,其他,大三 (junior),無,無,無
+2025-01-22 00:33:06.635499,757,student_757,其他,大四 (senior),雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:33:07.635499,758,student_758,其他,大四 (senior),雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:33:08.635499,759,student_759,其他,大四 (senior),雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:33:09.635499,760,student_760,其他,大四 (senior),雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:33:10.635499,761,student_761,其他,大四 (senior),雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:33:11.635499,762,student_762,其他,大四 (senior),雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:33:12.635499,763,student_763,其他,大四 (senior),雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:33:13.635499,764,student_764,其他,大四 (senior),雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:33:14.635499,765,student_765,其他,大四 (senior),雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:33:15.635499,766,student_766,其他,大四 (senior),輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:33:16.635499,767,student_767,其他,大四 (senior),輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:33:17.635499,768,student_768,其他,大四 (senior),輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:33:18.635499,769,student_769,其他,大四 (senior),輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:33:19.635499,770,student_770,其他,大四 (senior),輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:33:20.635499,771,student_771,其他,大四 (senior),輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:33:21.635499,772,student_772,其他,大四 (senior),輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:33:22.635499,773,student_773,其他,大四 (senior),輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:33:23.635499,774,student_774,其他,大四 (senior),輔系:資工系 (minor in CS),無,無
+2025-01-22 00:33:24.635499,775,student_775,其他,大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:33:25.635499,776,student_776,其他,大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:33:26.635499,777,student_777,其他,大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:33:27.635499,778,student_778,其他,大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:33:28.635499,779,student_779,其他,大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:33:29.635499,780,student_780,其他,大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:33:30.635499,781,student_781,其他,大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:33:31.635499,782,student_782,其他,大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:33:32.635499,783,student_783,其他,大四 (senior),以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:33:33.635499,784,student_784,其他,大四 (senior),無,李教授班,李教授班
+2025-01-22 00:33:34.635499,785,student_785,其他,大四 (senior),無,李教授班,高教授班
+2025-01-22 00:33:35.635499,786,student_786,其他,大四 (senior),無,李教授班,無
+2025-01-22 00:33:36.635499,787,student_787,其他,大四 (senior),無,高教授班,李教授班
+2025-01-22 00:33:37.635499,788,student_788,其他,大四 (senior),無,高教授班,高教授班
+2025-01-22 00:33:38.635499,789,student_789,其他,大四 (senior),無,高教授班,無
+2025-01-22 00:33:39.635499,790,student_790,其他,大四 (senior),無,無,李教授班
+2025-01-22 00:33:40.635499,791,student_791,其他,大四 (senior),無,無,高教授班
+2025-01-22 00:33:41.635499,792,student_792,其他,大四 (senior),無,無,無
+2025-01-22 00:33:42.635499,793,student_793,其他,大五、大六、或大七,雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:33:43.635499,794,student_794,其他,大五、大六、或大七,雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:33:44.635499,795,student_795,其他,大五、大六、或大七,雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:33:45.635499,796,student_796,其他,大五、大六、或大七,雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:33:46.635499,797,student_797,其他,大五、大六、或大七,雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:33:47.635499,798,student_798,其他,大五、大六、或大七,雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:33:48.635499,799,student_799,其他,大五、大六、或大七,雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:33:49.635499,800,student_800,其他,大五、大六、或大七,雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:33:50.635499,801,student_801,其他,大五、大六、或大七,雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:33:51.635499,802,student_802,其他,大五、大六、或大七,輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:33:52.635499,803,student_803,其他,大五、大六、或大七,輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:33:53.635499,804,student_804,其他,大五、大六、或大七,輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:33:54.635499,805,student_805,其他,大五、大六、或大七,輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:33:55.635499,806,student_806,其他,大五、大六、或大七,輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:33:56.635499,807,student_807,其他,大五、大六、或大七,輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:33:57.635499,808,student_808,其他,大五、大六、或大七,輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:33:58.635499,809,student_809,其他,大五、大六、或大七,輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:33:59.635499,810,student_810,其他,大五、大六、或大七,輔系:資工系 (minor in CS),無,無
+2025-01-22 00:34:00.635499,811,student_811,其他,大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:34:01.635499,812,student_812,其他,大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:34:02.635499,813,student_813,其他,大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:34:03.635499,814,student_814,其他,大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:34:04.635499,815,student_815,其他,大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:34:05.635499,816,student_816,其他,大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:34:06.635499,817,student_817,其他,大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:34:07.635499,818,student_818,其他,大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:34:08.635499,819,student_819,其他,大五、大六、或大七,以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:34:09.635499,820,student_820,其他,大五、大六、或大七,無,李教授班,李教授班
+2025-01-22 00:34:10.635499,821,student_821,其他,大五、大六、或大七,無,李教授班,高教授班
+2025-01-22 00:34:11.635499,822,student_822,其他,大五、大六、或大七,無,李教授班,無
+2025-01-22 00:34:12.635499,823,student_823,其他,大五、大六、或大七,無,高教授班,李教授班
+2025-01-22 00:34:13.635499,824,student_824,其他,大五、大六、或大七,無,高教授班,高教授班
+2025-01-22 00:34:14.635499,825,student_825,其他,大五、大六、或大七,無,高教授班,無
+2025-01-22 00:34:15.635499,826,student_826,其他,大五、大六、或大七,無,無,李教授班
+2025-01-22 00:34:16.635499,827,student_827,其他,大五、大六、或大七,無,無,高教授班
+2025-01-22 00:34:17.635499,828,student_828,其他,大五、大六、或大七,無,無,無
+2025-01-22 00:34:18.635499,829,student_829,其他,其他,雙主修:資工系 (also major in CS),李教授班,李教授班
+2025-01-22 00:34:19.635499,830,student_830,其他,其他,雙主修:資工系 (also major in CS),李教授班,高教授班
+2025-01-22 00:34:20.635499,831,student_831,其他,其他,雙主修:資工系 (also major in CS),李教授班,無
+2025-01-22 00:34:21.635499,832,student_832,其他,其他,雙主修:資工系 (also major in CS),高教授班,李教授班
+2025-01-22 00:34:22.635499,833,student_833,其他,其他,雙主修:資工系 (also major in CS),高教授班,高教授班
+2025-01-22 00:34:23.635499,834,student_834,其他,其他,雙主修:資工系 (also major in CS),高教授班,無
+2025-01-22 00:34:24.635499,835,student_835,其他,其他,雙主修:資工系 (also major in CS),無,李教授班
+2025-01-22 00:34:25.635499,836,student_836,其他,其他,雙主修:資工系 (also major in CS),無,高教授班
+2025-01-22 00:34:26.635499,837,student_837,其他,其他,雙主修:資工系 (also major in CS),無,無
+2025-01-22 00:34:27.635499,838,student_838,其他,其他,輔系:資工系 (minor in CS),李教授班,李教授班
+2025-01-22 00:34:28.635499,839,student_839,其他,其他,輔系:資工系 (minor in CS),李教授班,高教授班
+2025-01-22 00:34:29.635499,840,student_840,其他,其他,輔系:資工系 (minor in CS),李教授班,無
+2025-01-22 00:34:30.635499,841,student_841,其他,其他,輔系:資工系 (minor in CS),高教授班,李教授班
+2025-01-22 00:34:31.635499,842,student_842,其他,其他,輔系:資工系 (minor in CS),高教授班,高教授班
+2025-01-22 00:34:32.635499,843,student_843,其他,其他,輔系:資工系 (minor in CS),高教授班,無
+2025-01-22 00:34:33.635499,844,student_844,其他,其他,輔系:資工系 (minor in CS),無,李教授班
+2025-01-22 00:34:34.635499,845,student_845,其他,其他,輔系:資工系 (minor in CS),無,高教授班
+2025-01-22 00:34:35.635499,846,student_846,其他,其他,輔系:資工系 (minor in CS),無,無
+2025-01-22 00:34:36.635499,847,student_847,其他,其他,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,李教授班
+2025-01-22 00:34:37.635499,848,student_848,其他,其他,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,高教授班
+2025-01-22 00:34:38.635499,849,student_849,其他,其他,以「資訊工程」為第二專長 (second specialty in Computer Science),李教授班,無
+2025-01-22 00:34:39.635499,850,student_850,其他,其他,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,李教授班
+2025-01-22 00:34:40.635499,851,student_851,其他,其他,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,高教授班
+2025-01-22 00:34:41.635499,852,student_852,其他,其他,以「資訊工程」為第二專長 (second specialty in Computer Science),高教授班,無
+2025-01-22 00:34:42.635499,853,student_853,其他,其他,以「資訊工程」為第二專長 (second specialty in Computer Science),無,李教授班
+2025-01-22 00:34:43.635499,854,student_854,其他,其他,以「資訊工程」為第二專長 (second specialty in Computer Science),無,高教授班
+2025-01-22 00:34:44.635499,855,student_855,其他,其他,以「資訊工程」為第二專長 (second specialty in Computer Science),無,無
+2025-01-22 00:34:45.635499,856,student_856,其他,其他,無,李教授班,李教授班
+2025-01-22 00:34:46.635499,857,student_857,其他,其他,無,李教授班,高教授班
+2025-01-22 00:34:47.635499,858,student_858,其他,其他,無,李教授班,無
+2025-01-22 00:34:48.635499,859,student_859,其他,其他,無,高教授班,李教授班
+2025-01-22 00:34:49.635499,860,student_860,其他,其他,無,高教授班,高教授班
+2025-01-22 00:34:50.635499,861,student_861,其他,其他,無,高教授班,無
+2025-01-22 00:34:51.635499,862,student_862,其他,其他,無,無,李教授班
+2025-01-22 00:34:52.635499,863,student_863,其他,其他,無,無,高教授班
+2025-01-22 00:34:53.635499,864,student_864,其他,其他,無,無,無
