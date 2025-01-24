@@ -21,7 +21,7 @@ if __name__ == '__main__':
       for data in records:
          weight = random.random()
          
-         if data[attribute.department.value] == '資工系 (CS)' :            
+         if data[attribute.department.value] == '資工系 (CS)' or data[attribute.department.value] == '電資學院學士班 (U-EECS)':            
             if data[attribute.grade.value] == '大二 (sophomore)':               
             # 第一優先: 資工系大二
                data.append(10 + weight)               
