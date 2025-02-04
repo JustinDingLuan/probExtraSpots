@@ -43,7 +43,8 @@ if __name__ == '__main__':
       distributionResults = {
          '李教授班': [],
          '高教授班': [],
-         '志願序不符合規定': []                     
+         '志願序不符合規定': [],
+         '調整名單':[]                     
       }
       
       # 設定每班限制加簽人數
@@ -52,6 +53,10 @@ if __name__ == '__main__':
       countLee = 0
       countKao = 0
       
+      #彈性調整
+      Adjustment = 3
+      countAdjust = 0
+      
       # 進行分發
       # 規則: 
       # 1.第一志願不可填無，如果填了代表不想加簽? 
@@ -59,25 +64,29 @@ if __name__ == '__main__':
       
       for data in records:
          allocation = ''
-         
+         # 無超過限制
          if data[attribute.first_choice.value] == '無':
             allocation = '志願序不符合規定'
-            # data.append('志願序不符合規定')
+            
          elif data[attribute.first_choice.value] == '李教授班' and countLee < limitLee:
             countLee += 1
             allocation = '李教授班'
-            # data.append('分發結果: 李教授班')
+            
          elif data[attribute.first_choice.value] == '高教授班' and countKao < limitKao:
             countKao += 1
             allocation = '高教授班'
-            # data.append('分發結果: 高教授班')
+            
          elif data[attribute.second_choice.value] == '李教授班' and countLee < limitLee:
             countLee += 1
             allocation = '李教授班'
-            # data.append('分發結果: 李教授班')
+            
          elif data[attribute.second_choice.value] == '高教授班' and countKao < limitKao:
             countKao += 1
             allocation = '高教授班'
+         # 彈性調整  這邊還要再確認一下? 
+         elif countAdjust < Adjustment:
+            allocation = '調整名單'            
+            countAdjust += 1
          else:  
             break
          
@@ -90,6 +99,9 @@ if __name__ == '__main__':
             data[attribute.department.value],
             data[attribute.grade.value]
          ]
+         if allocation == '調整名單':
+            selectedData.append([data[attribute.first_choice.value], data[attribute.second_choice.value]])
+            
          distributionResults[allocation].append(selectedData)
          
       print("分發結果：")
