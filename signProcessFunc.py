@@ -47,31 +47,35 @@ def allocateStudent(students, limitLee = 40, limitKao = 40, adjustment = 3):
         "調整名單":[]
    }
    
-   count_lee, count_kao, count_adjust = 0, 0, 0
+   countLee, countKao, countAdjust = 0, 0, 0
 
    for student in students:
       if student.first_choice == "無":
-         allocation = "志願序不符合規定"
-         
-      elif student.first_choice == "李教授班" and count_lee < limitLee:
+         allocation = "志願序不符合規定" 
+                 
+      elif student.first_choice == "李教授班" and countLee < limitLee:
          allocation = "李教授班"
-         count_lee = count_lee + 1
-         
-      elif student.first_choice == "高教授班" and count_kao < limitKao:
+         countLee = countLee + 1
+                  
+      elif student.first_choice == "高教授班" and countKao < limitKao:
          allocation = "高教授班"
-         count_kao = count_kao + 1
+         countKao = countKao + 1
          
-      elif student.second_choice == "李教授班" and count_lee < limitLee:
+      elif student.second_choice == "無":
+         continue
+               
+      elif student.second_choice == "李教授班" and countLee < limitLee:
          allocation = "李教授班"
-         count_lee = count_lee + 1
-         
-      elif student.second_choice == "高教授班" and count_kao < limitKao:
+         countLee = countLee + 1
+                  
+      elif student.second_choice == "高教授班" and countKao < limitKao:
          allocation = "高教授班"
-         count_kao = count_kao + 1
-         
-      elif count_adjust < adjustment:
+         countKao = countKao + 1          
+      # 小問題，如果第一志願沒上，第二志願填無，會跑來調整名單 
+      # 好像沒問題? 在調整名單的都是 志願 1,2 都有填，但名額滿了      
+      elif countAdjust < adjustment:
          allocation = "調整名單"
-         count_adjust += 1
+         countAdjust += 1
       else:
          break
 
@@ -108,7 +112,12 @@ if __name__ == '__main__':
          print(f"{key} 分發的學生:")
          
          for student in value:
-            print(f"{student.student_id} - {student.name} - {student.department} - {student.grade} - {student.result}")
+            if student.result == "調整名單":
+               print(f"{student.weight}, {student.student_id}, {student.name}, {student.department}, {student.grade}, {student.first_choice}, {student.second_choice}")
+            elif student.result == "志願序不符合規定":
+               print(f"{student.weight}, {student.student_id}, {student.name}, {student.department}, {student.grade}")               
+            else:
+               print(f"{student.weight}, {student.student_id}, {student.name}, {student.department}, {student.grade}, {student.result}")
          print("\n")
       
               
