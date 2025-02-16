@@ -44,7 +44,8 @@ if __name__ == '__main__':
          '李教授班': [],
          '高教授班': [],
          '志願序不符合規定': [],
-         '調整名單':[]                     
+         '未分發':[]
+         # '調整名單':[]                     
       }
       
       # 設定每班限制加簽人數
@@ -54,8 +55,8 @@ if __name__ == '__main__':
       countKao = 0
       
       #彈性調整
-      Adjustment = 3
-      countAdjust = 0
+      # Adjustment = 3
+      # countAdjust = 0
       
       # 進行分發
       # 規則: 
@@ -63,8 +64,7 @@ if __name__ == '__main__':
       # 2.第二志願若填無，表示不想去另一班
       
       for data in records:
-         allocation = ''
-         # 無超過限制
+         allocation = ''         
          if data[attribute.first_choice.value] == '無':
             allocation = '志願序不符合規定'
             
@@ -76,6 +76,9 @@ if __name__ == '__main__':
             countKao += 1
             allocation = '高教授班'
             
+         # elif data[attribute.second_choice.value] == '無':
+         #    continue
+         
          elif data[attribute.second_choice.value] == '李教授班' and countLee < limitLee:
             countLee += 1
             allocation = '李教授班'
@@ -84,36 +87,43 @@ if __name__ == '__main__':
             countKao += 1
             allocation = '高教授班'
          # 彈性調整  這邊還要再確認一下? 
-         elif countAdjust < Adjustment:
-            allocation = '調整名單'            
-            countAdjust += 1
+         # elif countAdjust < Adjustment:
+         #    allocation = '調整名單'            
+         #    countAdjust += 1
          else:  
-            break
+            allocation = '未分發'
+            # break
          
-         data.append(f"分發結果: {allocation}")
+         data.append(allocation)
+         # data.append(f"分發結果: {allocation}")
          
-         selectedData = [
-            data[attribute.weight.value],
-            data[attribute.student_id.value],
-            data[attribute.name.value],
-            data[attribute.department.value],
-            data[attribute.grade.value]
-         ]
-         if allocation == '調整名單':
-            selectedData.append([data[attribute.first_choice.value], data[attribute.second_choice.value]])
+         
+         # selectedData = [
+         #    data[attribute.weight.value],
+         #    data[attribute.student_id.value],
+         #    data[attribute.name.value],
+         #    data[attribute.department.value],
+         #    data[attribute.grade.value]
+         # ]
+         # # if allocation == '調整名單':
+         # #    selectedData.append([data[attribute.first_choice.value], data[attribute.second_choice.value]])
             
-         distributionResults[allocation].append(selectedData)
+         # distributionResults[allocation].append(selectedData)
+      
+      # 讓資料根據分發結果排序，並且同組內根據 weight 進行排序
+      # records.sort(key=lambda row: (row[attribute.result.value], -row[attribute.weight.value]), reverse = True)
+
+      # print("分發結果：")
+      # for key, value in distributionResults.items():
+      #    print(f"{key} 分發的學生：")
          
-      print("分發結果：")
-      for key, value in distributionResults.items():
-         print(f"{key} 分發的學生：")
-         
-         for student in value:
-            print(student)
-              
+      #    for student in value:
+      #       print(student)
+      #    print('\n')
+      # print(attribute.weight.value) 
+             
       #存檔    
       with open('result.csv', mode='w', encoding='utf-8', newline='') as output_file:
          csv_writer = csv.writer(output_file)
-         csv_writer.writerow(header)
-         csv_writer.writerows(records)
-   
+         csv_writer.writerow(header)         
+         csv_writer.writerows(records) 
